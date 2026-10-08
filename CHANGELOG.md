@@ -1,3 +1,7 @@
+## 0.1.2
+
+- README: image links point at the `master` branch, so they show on pub.dev.
+
 ## 0.1.1
 
 - Example is a single `example/main.dart`; macOS runner removed.

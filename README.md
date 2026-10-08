@@ -1,4 +1,4 @@
-![Frame](https://raw.githubusercontent.com/AlexHCJP/metro_map/main/screenshots/contributors.png)
+![Frame](https://raw.githubusercontent.com/AlexHCJP/metro_map/master/screenshots/contributors.png)
 
 # 🚇 Metro Map
 
@@ -41,7 +41,7 @@
 
 `metro_map` draws linked items as a metro map for Flutter. The item that ends last is the finish; every other item sits on a row by how many links it is from the finish, so branches that run in parallel share a row and you can see exactly where they merge. Depends on nothing but Flutter.
 
-![A launch plan drawn by metro_map](https://raw.githubusercontent.com/AlexHCJP/metro_map/main/screenshots/metro.png)
+![A launch plan drawn by metro_map](https://raw.githubusercontent.com/AlexHCJP/metro_map/master/screenshots/metro.png)
 
 ---
 

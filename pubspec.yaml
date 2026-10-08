@@ -1,6 +1,6 @@
 name: metro_map
 description: "Draws linked items as a metro map: parallel branches share a row, merges are visible, and everything flows to the finish. Vertical or horizontal."
-version: 0.1.1
+version: 0.1.2
 
 homepage: https://github.com/AlexHCJP/metro_map
 repository: https://github.com/AlexHCJP/metro_map
